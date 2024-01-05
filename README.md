@@ -22,6 +22,8 @@ Clone this repository to your local machine.
 Open the index.html file in a web browser.
 Enter two numbers and select the desired operation.
 Click the "Calculate" button to view the result.
+
+Or simply go to this url https://udhay-project-4.netlify.app/
 ## Future Enhancements
 
 Additional mathematical operations (e.g., square root, exponents)

@@ -1,0 +1,88 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow: hidden;
+    height: 100vh;
+    background-size:100% 100%;
+    background-image: url(Images/bg.jpeg);
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+}
+
+.taskbar{
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    background-color: whitesmoke;
+    width: 100%;
+    justify-content: center;
+    height: 55px;
+    z-index: 22;
+    
+}
+.icon {
+    margin: 0px 5px;
+    cursor: pointer;
+}
+.icon img{
+    height: 50px;
+}
+.right {
+    justify-self: flex-end;
+    position: absolute;
+    right: 0;
+    margin: 6px 0;
+    height: 85%;
+}
+.startmenu{
+    position: absolute; 
+    /* bottom: 60px; */
+    bottom: -450px;
+    width: 100%;
+    text-align: center;
+    transition: all 4s ease-in ; 
+}
+
+.startmenu img{
+    border-radius: 8px;
+    height: 450px;
+}
+.edgeui img {
+    width: 100%;
+    height: 100vh;
+}
+.vscodeui img {
+    width: 100%;
+    height: 100vh;
+}
+.githubui img {
+    width: 100%;
+    height: 100vh;
+}
+.edgeui{
+    display: none;
+    transition: all 2s ease-in-out;
+}
+.vscodeui{
+    display: none;
+    transition: all 2s eavscodeuise-in-out;
+}
+.githubui{
+    display: none;
+    transition: all 2s ease-in-out;
+}
+.trashui{
+    display: none;
+    transition: all 2s ease-in-out;
+    position: absolute;
+    bottom: 70px;
+    left: 30%;
+}

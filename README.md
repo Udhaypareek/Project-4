@@ -1,35 +1,22 @@
-# Project-4
+# Windows 11 Web Clone 🪟
+This repository houses a web-based replica of the Windows 11 interface! Built with HTML, CSS, and JavaScript, it offers a glimpse into the Windows 11 experience without requiring actual installation.
 
-# Simple Calculator Project
-
-## Overview
-
-This repository contains a basic calculator application that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It marks my first foray into using JavaScript within a web development project.
-
-## Technologies Used
-
-HTML (for structure)
-CSS (for styling)
-JavaScript (for functionality)
-## Key Features
-
-User-friendly interface for entering numbers and selecting operations
-Accurate calculation results
-Clear display of the calculation process and outcome
-## Setup and Usage
-
-Clone this repository to your local machine.
-Open the index.html file in a web browser.
-Enter two numbers and select the desired operation.
-Click the "Calculate" button to view the result.
-
+## Key Features:
+Interactive Taskbar: Click on app icons (currently images) to access their "Start Page" representations.
+Animated Windows Key Press: Mimics the authentic Windows 11 animation triggered by pressing the Windows key on screen.
+Clean and Familiar Design: Replicates the visual elements of Windows 11, providing a recognizable experience.
+## Technologies Used:
+HTML: Structures the webpage layout.
+CSS: Styles the interface and animations.
+JavaScript: Powers interactivity like taskbar clicks and animations.
+## Getting Started:
+Clone or download this repository.
+Open the index.html file in your web browser.
+Interact with the taskbar and explore the Start Page images!
 Or simply go to this url https://udhay-project-4.netlify.app/
-## Future Enhancements
-
-Additional mathematical operations (e.g., square root, exponents)
-Expanded functionality (e.g., memory functions, scientific notation)
-Improved user experience (e.g., keyboard shortcuts, error handling)
-## Contributions
-
-Feel free to fork this repository and contribute your own improvements!
+## Future Enhancements:
+Add more interactive elements like search, widgets, and basic app functionality.
+Refine the visual design and animations for a smoother experience.
+## Contributions:
+Fork this repository and contribute your code, ideas, and improvements! Help make this Windows 11 clone even more immersive and engaging.
 
